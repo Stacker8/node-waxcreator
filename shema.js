@@ -34,9 +34,6 @@ const schema = {
             submission_id: 1,
             number_of_items_to_refill: 1,
         }
-    },
-    uploadImage: {
-        method: 'POST',
     }
 };
 
