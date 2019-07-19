@@ -37,7 +37,7 @@ WC.read((err, body) => {
 or address the path like this:
 
 ```javascript
-WC.request('read', ((err, body) => {
+WC.request('read', (err, body) => {
   // ...
 })
 ```
