@@ -2,7 +2,7 @@ const util = require('util'),
     querystring = require('querystring'),
     request = require('request');
 
-let schema = require('./schema.js');
+let schema = require('./shema.js');
 
 let WaxCreator = (() => {
     function WaxCreator(options) {
