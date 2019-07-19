@@ -1,0 +1,25 @@
+{
+  "name": "wax-creator",
+  "version": "1.0.0",
+  "description": "A little tool that helps using the WAX-Creator Api",
+  "main": "index.js",
+  "keywords": [
+    "opskins",
+    "wax",
+    "WAXCreator"
+  ],
+  "author": {
+    "name": "Stacker"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/Stacker8/node-waxcreator",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Stacker8/node-waxcreator/issues"
+  },
+  "dependencies": {
+    "querystring": "^0.2.0",
+    "request": "^2.88.0",
+    "util": "^0.12.1"
+  }
+}
