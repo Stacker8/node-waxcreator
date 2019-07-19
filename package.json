@@ -1,5 +1,5 @@
 {
-  "name": "wax-creator",
+  "name": "waxcreator",
   "version": "1.0.0",
   "description": "A little tool that helps using the WAX-Creator Api",
   "main": "index.js",
